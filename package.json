@@ -8,20 +8,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview --port 8080"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/goldhand/goldhand.git"
-  },
-  "keywords": [
-    "Profile",
-    "goldhand"
-  ],
   "author": "Will Farley <a.will.farley@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goldhand/goldhand/issues"
-  },
-  "homepage": "https://github.com/goldhand/goldhand#readme",
   "devDependencies": {
     "vitepress": "^1.2.3"
   }
