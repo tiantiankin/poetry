@@ -1,0 +1,29 @@
+{
+  "name": "poet-blog",
+  "version": "1.0.0",
+  "description": "Will Farley github.com/goldhand",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldhand/goldhand.git"
+  },
+  "keywords": [
+    "Profile",
+    "goldhand"
+  ],
+  "author": "Will Farley <a.will.farley@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldhand/goldhand/issues"
+  },
+  "homepage": "https://github.com/goldhand/goldhand#readme",
+  "devDependencies": {
+    "vitepress": "^1.2.3"
+  }
+}
