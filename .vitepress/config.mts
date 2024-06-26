@@ -20,7 +20,7 @@ export default defineConfig({
         text: '诗人',
         items: [
           { text: '杜甫', link: '/cn/dufu' },
-          { text: '礼拜', link: '/cn/libai' },
+          { text: '李白', link: '/cn/libai' },
         ]
       }]
     },
