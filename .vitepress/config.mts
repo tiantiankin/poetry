@@ -13,7 +13,7 @@ export default defineConfig({
       "/en/": [{
         text: '印度',
         items: [
-          { text: '泰戈尔 Tagore', link: '/en/tagore' },
+          { text: '泰戈尔-Tagore', link: '/en/tagore' },
         ]
       }],
       "/cn/": [{
