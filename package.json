@@ -2,6 +2,7 @@
   "name": "poet-blog",
   "version": "1.0.0",
   "description": "Will Farley github.com/goldhand",
+  "license": "MIT",
   "scripts": {
     "start": "vitepress dev",
     "postinstall": "node index.js",
