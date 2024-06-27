@@ -29,5 +29,17 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
-  }
+  },
+  head: [
+    [
+      "script",
+      {
+        async: "",
+        type: "module",
+        src: "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs",
+      },
+    ],
+    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }]
+  ],
+  base: "/",
 })
