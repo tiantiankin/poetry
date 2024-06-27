@@ -4,10 +4,11 @@
   "description": "Will Farley github.com/goldhand",
   "license": "MIT",
   "scripts": {
-    "start": "vitepress dev",
-    "docs:dev": "vitepress dev",
+\    "start": "npm run docs:dev",
+    "build": "npm run docs:build",
+    "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview --port 8080"
+    "docs:preview": "vitepress preview docs"
   },
   "author": "Will Farley <a.will.farley@gmail.com>",
   "devDependencies": {
