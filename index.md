@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 中国
-      link: /cn/dufu
+      link: /cn/wangwei
     - theme: alt
       text: 外国
       link: /en/tagore
