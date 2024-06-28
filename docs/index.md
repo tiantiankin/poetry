@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "poetry blog"
-  text: "诗歌金句收集"
+  text: "诗文一记"
   tagline: 随缘一更
   # tagline: 
   actions:
