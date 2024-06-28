@@ -20,6 +20,7 @@ export default defineConfig({
         text: '诗人',
         items: [
           { text: '王维', link: '/cn/wangwei' },
+          { text: '佚名', link: '/nameless' },
           { text: '杜甫', link: '/cn/dufu' },
           { text: '李白', link: '/cn/libai' },
           { text: '辛弃疾', link: '/cn' },

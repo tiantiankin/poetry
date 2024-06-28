@@ -21,8 +21,11 @@ export default defineConfig({
         items: [
           { text: '王维', link: '/cn/wangwei' },
           { text: '杜甫', link: '/cn/dufu' },
+          { text: '佚名', link: '/cn/nameless' },
           { text: '李白', link: '/cn/libai' },
           { text: '辛弃疾', link: '/cn/xinqiji' },
+          { text: '刘过', link: '/cn/liuguo' },
+          { text: '元稹', link: '/cn/yuanzhen' },
           { text: '现代', link: '/cn/current' },
         ]
       }]

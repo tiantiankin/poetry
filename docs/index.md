@@ -5,6 +5,7 @@ layout: home
 hero:
   name: "poetry blog"
   text: "诗歌金句收集"
+  tagline: 随缘一更
   # tagline: 
   actions:
     - theme: brand
