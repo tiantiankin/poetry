@@ -28,3 +28,6 @@ for(let langKey in data){
     createFile(`${BASE_PATH}/${langKey}/${key}.md`,getContent(data))
   }
 }
+
+
+process.exit();
