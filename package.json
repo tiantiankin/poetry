@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Will Farley github.com/goldhand",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "npm run docs:dev",
     "build": "npm run docs:build",
@@ -13,5 +14,8 @@
   "author": "Will Farley <a.will.farley@gmail.com>",
   "devDependencies": {
     "vitepress": "^1.2.3"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
   }
 }
