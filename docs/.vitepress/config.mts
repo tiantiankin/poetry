@@ -25,7 +25,9 @@ export default defineConfig({
           { text: '李白', link: '/cn/libai' },
           { text: '辛弃疾', link: '/cn/xinqiji' },
           { text: '刘过', link: '/cn/liuguo' },
+          { text: '刘禹锡', link: '/cn/liuyuxi' },
           { text: '元稹', link: '/cn/yuanzhen' },
+          { text: '林则徐', link: '/cn/linzexu' },
           { text: '现代', link: '/cn/current' },
         ]
       }]

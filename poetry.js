@@ -2,7 +2,7 @@ export const DATA = {
   cn: {
     current: [
       {
-        sentence: "穿梭在充满阳光的雲城，最后坠入了灰暗的凡间。 测试",
+        sentence: "穿梭在充满阳光的雲城，最后坠入了灰暗的凡间。",
       },
     ],
     dufu: [
@@ -36,6 +36,20 @@ export const DATA = {
         link: "https://so.gushiwen.cn/search.aspx?value=%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%EF%BC%8C%E7%BB%88%E4%B8%8D%E4%BC%BC%EF%BC%8C%E5%B0%91%E5%B9%B4%E6%B8%B8&valuej=%E6%AC%B2",
       },
     ],
+    liuyuxi: [
+      {
+        sentence: "自古逢秋悲寂寥，我言秋日胜春朝。",
+        name: "秋词二首·其一",
+        link: "https://so.gushiwen.cn/shiwenv_4995f2f0581b.aspx",
+      },
+    ],
+    linzexu: [
+      {
+        sentence: "海到无边天作岸，山登绝顶我为峰",
+        name: "出老",
+        link: "https://so.gushiwen.cn/mingju/juv_0b8b601e3bf1.aspx"
+      },
+    ],
     nameless: [
       {
         sentence: "命里有时终须有，命里无时莫强求。",
@@ -43,30 +57,30 @@ export const DATA = {
         link: "https://so.gushiwen.cn/mingjus/default.aspx?tstr=%e5%a2%9e%e5%b9%bf%e8%b4%a4%e6%96%87",
       },
       {
-        sentence:'天做棋盘星做子，地为琵琶路为弦。',
+        sentence: "天做棋盘星做子，地为琵琶路为弦。",
       },
     ],
-    wangwei:[
+    wangwei: [
       {
         sentence: "一身转战三千里,一剑曾当百万师。",
         name: "老将行",
         link: "https://so.gushiwen.cn/search.aspx?value=%E8%80%81%E5%B0%86%E8%A1%8C&valuej=%E8%80%81",
-      }
+      },
     ],
-    xinqiji:[
+    xinqiji: [
       {
         sentence: "醉里挑灯看剑,梦回吹角连营。",
         name: "破阵子",
         link: "https://so.gushiwen.cn/shiwenv_9822debcdc64.aspx",
-      }
+      },
     ],
-    yuanzhen:[
+    yuanzhen: [
       {
         sentence: "曾经沧海难为水，除却巫山不是云。",
         name: "离思五首·其四",
         link: "https://so.gushiwen.cn/shiwenv_bd4224133394.aspx",
-      }
-    ]
+      },
+    ],
   },
   en: {
     tagore: [
@@ -92,5 +106,4 @@ export const DATA = {
   },
 };
 
-
-export const BASE_PATH='docs'
+export const BASE_PATH = "docs";
