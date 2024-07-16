@@ -14,6 +14,7 @@ export default defineConfig({
         text: '印度',
         items: [
           { text: '泰戈尔-Tagore', link: '/en/tagore' },
+          { text: '惠特曼-Whitman', link: '/en/whitman' },
         ]
       }],
       "/cn/": [{
@@ -28,6 +29,8 @@ export default defineConfig({
           { text: '刘禹锡', link: '/cn/liuyuxi' },
           { text: '元稹', link: '/cn/yuanzhen' },
           { text: '林则徐', link: '/cn/linzexu' },
+          { text: '陈毅', link: '/cn/chenyi' },
+          { text: '张养浩', link: '/cn/zhangyanghao' },
           { text: '现代', link: '/cn/current' },
         ]
       }]

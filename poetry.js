@@ -5,11 +5,15 @@ export const DATA = {
         sentence: "穿梭在充满阳光的雲城，最后坠入了灰暗的凡间。",
       },
       {
-        sentence: "总会有星星划过天际，燃起了燎火。\n总会有鱼儿逆水而上，越过了龙门。",
+        sentence:
+          "总会有星星划过天际，燃起了燎火。\n总会有鱼儿逆水而上，越过了龙门。",
       },
       {
         sentence: "上天会没收懒惰之人的天赋。",
-      }
+      },
+      {
+        sentence: "山有顶峰，湖有彼岸。",
+      },
     ],
     dufu: [
       {
@@ -17,6 +21,13 @@ export const DATA = {
         name: "春望",
         link: "https://so.gushiwen.cn/search.aspx?value=%E6%98%A5%E6%9C%9B&valuej=%E6%98%A5",
       },
+    ],
+    chenyi:[
+      {
+        sentence: `此去泉台招旧部，旌旗十万斩阎罗。`,
+        name: "梅岭三章",
+        link: "https://so.gushiwen.cn/search.aspx?value=%E6%AD%A4%E5%8E%BB%E6%B3%89%E5%8F%B0%E6%8B%9B%E6%97%A7%E9%83%A8&valuej=%E6%AD%A4"
+      }
     ],
     libai: [
       {
@@ -34,6 +45,13 @@ export const DATA = {
         name: "把酒问月·故人贾淳令予问之",
         link: "https://so.gushiwen.cn/shiwenv_837510c0a7c4.aspx",
       },
+    ],
+    zhangyanghao:[
+      {
+        sentence:'日上三竿我独眠，谁是神仙，我是神仙。',
+        name:'山坡羊·一个犁牛半块田',
+        link:'https://so.gushiwen.cn/shiwenv_831c7364b62f.aspx'
+      }
     ],
     liuguo: [
       {
@@ -53,7 +71,7 @@ export const DATA = {
       {
         sentence: "海到无边天作岸，山登绝顶我为峰",
         name: "出老",
-        link: "https://so.gushiwen.cn/mingju/juv_0b8b601e3bf1.aspx"
+        link: "https://so.gushiwen.cn/mingju/juv_0b8b601e3bf1.aspx",
       },
     ],
     nameless: [
@@ -109,6 +127,19 @@ export const DATA = {
         originName: `Stray Birds`,
       },
     ],
+    whitman: [
+      {
+      sentence: `我既年老又年青，既愚蠢又聪明，既不关心别人，又永远关心别人，是母亲又是父亲，是孩子又是成人，塞满了粗糙的东西，又塞满了精致的东西`,
+      name: "自己之歌",
+      origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
+      originName: `Baby's Way`,
+    },{
+      sentence: `做一个世界的水手，奔赴所有的码头`,
+      name: "欢乐之歌",
+      origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
+      originName: `Baby's Way`,
+    }
+  ],
   },
 };
 
