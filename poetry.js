@@ -12,7 +12,8 @@ export const DATA = {
         sentence: "上天会没收懒惰之人的天赋。",
       },
       {
-        sentence: "山有顶峰，湖有彼岸。",
+        sentence: "山有峰顶，海有彼岸。漫漫长途，终有回转。余味苦涩，终有回甘。",
+        name:"一切都是最好的安排"
       },
     ],
     dufu: [
