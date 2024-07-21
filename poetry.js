@@ -69,7 +69,7 @@ export const DATA = {
     ],
     linzexu: [
       {
-        sentence: "海到无边天作岸，山登绝顶我为峰",
+        sentence: "海到无边天作岸，山登绝顶我为峰。",
         name: "出老",
         link: "https://so.gushiwen.cn/mingju/juv_0b8b601e3bf1.aspx",
       },
@@ -123,6 +123,26 @@ export const DATA = {
       {
         sentence: `"可能" 问 "不可能" 道："你住在什么地方呢？" 它回答道："在那无能为力者的梦境里。" `,
         origin: `The bird thinks it is an act of kindness to give the fish a life in the air.`,
+        name: "飞鸟集",
+        originName: `Stray Birds`,
+      },
+      {
+        sentence: `海水呀,你说的是什么?\n\>是永恒的疑问。天空啊，你回答的是什么？\n\>是永恒的沉默。`,
+        name: "飞鸟集",
+        originName: `Stray Birds`,
+      },
+      {
+        sentence: `我们把世界看错了，反说它欺骗了我们。`,
+        name: "飞鸟集",
+        originName: `Stray Birds`,
+      },
+      {
+        sentence: `使生入夏花之绚烂，死如秋叶之静美。`,
+        name: "飞鸟集",
+        originName: `Stray Birds`,
+      },
+      {
+        sentence: `根是地下的枝，枝是空中的根`,
         name: "飞鸟集",
         originName: `Stray Birds`,
       },
