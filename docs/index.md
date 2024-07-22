@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "记录"
-  text: "将石头雕琢成玉"
+  name: "杂记"
+  text: "琢石成玉"
   tagline: 随缘一更
   # tagline: 
   actions:
