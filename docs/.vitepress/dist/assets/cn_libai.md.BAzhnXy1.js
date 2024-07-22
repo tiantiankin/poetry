@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.B-t8lLCM.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cn/libai.md","filePath":"cn/libai.md"}'),c={name:"cn/libai.md"};function i(n,r,o,s,l,p){return a(),t("div")}const m=e(c,[["render",i]]);export{d as __pageData,m as default};
