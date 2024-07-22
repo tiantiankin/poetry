@@ -12,7 +12,7 @@ export const DATA = {
         sentence: "上天会没收懒惰之人的天赋。",
       },
       {
-        sentence: "人们创造他们自己的历史",
+        sentence: "人们创造他们自己的历史。",
       },
       {
         sentence:
