@@ -16,7 +16,7 @@ function createFile(filePath, content) {
 function getContent(data){
   let result=''
   data.forEach((item)=>{
-    result=result+`>${item.sentence}  ${item.name&&item.link?`-- [《${item.name}》](${item.link})\n\n`:'\n\n'}`
+    result=result+`>${item.sentence}  ${item.name?`-- [《${item.name}》](${item.link})\n\n`:'\n\n'}`
   })
   return result
 }
