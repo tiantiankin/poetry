@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "杂记"
-  text: "琢石成玉"
+  text: "琢石成玉,植木成林"
   tagline: 随缘一更
   # tagline: 
   actions:
