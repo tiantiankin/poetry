@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "poetry blog"
-  text: "愚者的笔记"
+  name: "石头记"
+  text: "将石头雕琢成玉"
   tagline: 随缘一更
   # tagline: 
   actions:
