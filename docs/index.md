@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "石头记"
+  name: "记录"
   text: "将石头雕琢成玉"
   tagline: 随缘一更
   # tagline: 
