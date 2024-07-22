@@ -24,7 +24,7 @@ export const DATA = {
       },
     ],
     huineng:[{
-      sentence:'菩提本无树,明镜亦非台',
+      sentence:'菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？',
       name:"菩提偈",
       link:"https://so.gushiwen.cn/search.aspx?value=%E8%8F%A9%E6%8F%90%E6%9C%AC%E6%97%A0%E6%A0%91%2C%E6%98%8E%E9%95%9C%E4%BA%A6%E9%9D%9E%E5%8F%B0&valuej=%E8%8F%A9"
     }],
