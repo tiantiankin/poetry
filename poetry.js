@@ -12,8 +12,9 @@ export const DATA = {
         sentence: "上天会没收懒惰之人的天赋。",
       },
       {
-        sentence: "山有峰顶，海有彼岸。漫漫长途，终有回转。余味苦涩，终有回甘。",
-        name:"一切都是最好的安排"
+        sentence:
+          "山有峰顶，海有彼岸。漫漫长途，终有回转。余味苦涩，终有回甘。",
+        name: "一切都是最好的安排",
       },
     ],
     dufu: [
@@ -23,17 +24,31 @@ export const DATA = {
         link: "https://so.gushiwen.cn/search.aspx?value=%E6%98%A5%E6%9C%9B&valuej=%E6%98%A5",
       },
     ],
-    huineng:[{
-      sentence:'菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？',
-      name:"菩提偈",
-      link:"https://so.gushiwen.cn/search.aspx?value=%E8%8F%A9%E6%8F%90%E6%9C%AC%E6%97%A0%E6%A0%91%2C%E6%98%8E%E9%95%9C%E4%BA%A6%E9%9D%9E%E5%8F%B0&valuej=%E8%8F%A9"
-    }],
-    chenyi:[
+    huineng: [
+      {
+        sentence: "菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？",
+        name: "菩提偈",
+        link: "https://so.gushiwen.cn/search.aspx?value=%E8%8F%A9%E6%8F%90%E6%9C%AC%E6%97%A0%E6%A0%91%2C%E6%98%8E%E9%95%9C%E4%BA%A6%E9%9D%9E%E5%8F%B0&valuej=%E8%8F%A9",
+      },
+      {
+        sentence:
+          "典故对应 - 弟子神秀:身似菩提树，心如明镜台，时时勤拂拭，莫使惹尘埃。",
+      },
+      {
+        sentence: `身体如同菩提树根扎大地，心灵如同明镜台一样闪闪发亮。自身时时刻刻保持打磨擦拭，不让它沾染上尘土遮蔽光明。一种修行者的心境。`,
+      },
+      {
+        sentence: `而另外一种心境则要结合历史典故，传说佛祖就是在菩提树下修炼悟道的，在佛教理解中为觉悟圣物，但实际上佛祖能悟道并不是由于在菩提树下，而是他本身的领悟
+      ，菩提本无树就是如此，实际上是对应着精神上的菩提树；\n 明镜亦非台，明镜之所以能够闪闪发亮，并不是因为它是明镜台，而是它映照了光明。
+      而当你内心空无一物充满光明，自然就不会沾染尘埃。`,
+      },
+    ],
+    chenyi: [
       {
         sentence: `此去泉台招旧部，旌旗十万斩阎罗。`,
         name: "梅岭三章",
-        link: "https://so.gushiwen.cn/search.aspx?value=%E6%AD%A4%E5%8E%BB%E6%B3%89%E5%8F%B0%E6%8B%9B%E6%97%A7%E9%83%A8&valuej=%E6%AD%A4"
-      }
+        link: "https://so.gushiwen.cn/search.aspx?value=%E6%AD%A4%E5%8E%BB%E6%B3%89%E5%8F%B0%E6%8B%9B%E6%97%A7%E9%83%A8&valuej=%E6%AD%A4",
+      },
     ],
     libai: [
       {
@@ -52,12 +67,12 @@ export const DATA = {
         link: "https://so.gushiwen.cn/shiwenv_837510c0a7c4.aspx",
       },
     ],
-    zhangyanghao:[
+    zhangyanghao: [
       {
-        sentence:'日上三竿我独眠，谁是神仙，我是神仙。',
-        name:'山坡羊·一个犁牛半块田',
-        link:'https://so.gushiwen.cn/shiwenv_831c7364b62f.aspx'
-      }
+        sentence: "日上三竿我独眠，谁是神仙，我是神仙。",
+        name: "山坡羊·一个犁牛半块田",
+        link: "https://so.gushiwen.cn/shiwenv_831c7364b62f.aspx",
+      },
     ],
     liuguo: [
       {
@@ -155,17 +170,18 @@ export const DATA = {
     ],
     whitman: [
       {
-      sentence: `我既年老又年青，既愚蠢又聪明，既不关心别人，又永远关心别人，是母亲又是父亲，是孩子又是成人，塞满了粗糙的东西，又塞满了精致的东西`,
-      name: "自己之歌",
-      origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
-      originName: `Baby's Way`,
-    },{
-      sentence: `做一个世界的水手，奔赴所有的码头`,
-      name: "欢乐之歌",
-      origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
-      originName: `Baby's Way`,
-    }
-  ],
+        sentence: `我既年老又年青，既愚蠢又聪明，既不关心别人，又永远关心别人，是母亲又是父亲，是孩子又是成人，塞满了粗糙的东西，又塞满了精致的东西`,
+        name: "自己之歌",
+        origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
+        originName: `Baby's Way`,
+      },
+      {
+        sentence: `做一个世界的水手，奔赴所有的码头`,
+        name: "欢乐之歌",
+        origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
+        originName: `Baby's Way`,
+      },
+    ],
   },
 };
 
