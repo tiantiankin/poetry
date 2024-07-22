@@ -20,6 +20,7 @@ export default defineConfig({
       "/cn/": [{
         text: '诗人',
         items: [
+          { text: '惠能', link: '/cn/huineng' },
           { text: '王维', link: '/cn/wangwei' },
           { text: '杜甫', link: '/cn/dufu' },
           { text: '佚名', link: '/cn/nameless' },
@@ -31,7 +32,6 @@ export default defineConfig({
           { text: '林则徐', link: '/cn/linzexu' },
           { text: '陈毅', link: '/cn/chenyi' },
           { text: '张养浩', link: '/cn/zhangyanghao' },
-          { text: '惠能', link: '/cn/huineng' },
           { text: '现代', link: '/cn/current' },
         ]
       }]
