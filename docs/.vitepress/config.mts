@@ -31,6 +31,7 @@ export default defineConfig({
           { text: '林则徐', link: '/cn/linzexu' },
           { text: '陈毅', link: '/cn/chenyi' },
           { text: '张养浩', link: '/cn/zhangyanghao' },
+          {text:'惠能',link:'/cn/huineng'},
           { text: '现代', link: '/cn/current' },
         ]
       }]
