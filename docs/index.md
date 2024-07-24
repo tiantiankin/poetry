@@ -9,10 +9,11 @@ hero:
   # tagline: 
   actions:
     - theme: brand
-      text: 中国
+      text: 中国诗歌/句子
       link: /cn/huineng
     - theme: alt
-      text: 外国
+      text: 外国诗歌/句子
       link: /en/tagore
-
-
+    - theme: alt
+      text: 取巧之道
+      link: /invest/base

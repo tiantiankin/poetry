@@ -34,7 +34,12 @@ export default defineConfig({
           { text: '张养浩', link: '/cn/zhangyanghao' },
           { text: '现代', link: '/cn/current' },
         ]
-      }]
+      }],
+      "/invest/": [
+        {
+          text:"投资与投机",link:'/invest/base'
+        }
+      ]
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
