@@ -19,9 +19,6 @@ export const DATA = {
       },
       {
         sentence: "人们创造他们自己的历史。",
-      },
-      {
-        sentence: "磨剑非本意，入鞘敛寒芒",
       }
     ],
     dufu: [
