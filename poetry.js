@@ -21,6 +21,13 @@ export const DATA = {
         sentence: "人们创造他们自己的历史。",
       }
     ],
+    zhuangzi:[
+      {
+        sentence:"井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也",
+        name: "秋​水​",
+        link:"https://www.gushiwen.cn/search.aspx?value=%E5%A4%8F%E8%99%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E8%AF%AD%E4%BA%8E%E5%86%B0%E8%80%85%EF%BC%8C%E7%AC%83%E4%BA%8E%E6%97%B6%E4%B9%9F%E3%80%82&valuej=%E5%A4%8F"
+      },
+    ],
     dufu: [
       {
         sentence: "国破山河在，城春草木深。",

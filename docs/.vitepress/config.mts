@@ -22,6 +22,7 @@ export default defineConfig({
         items: [
           { text: '惠能', link: '/cn/huineng' },
           { text: '王维', link: '/cn/wangwei' },
+          { text: '庄子', link: '/cn/zhuangzi' },
           { text: '杜甫', link: '/cn/dufu' },
           { text: '佚名', link: '/cn/nameless' },
           { text: '李白', link: '/cn/libai' },
