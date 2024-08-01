@@ -15,5 +15,5 @@ hero:
       text: 外国诗歌/句子
       link: /en/tagore
     - theme: alt
-      text: 取巧之道
+      text: 积累之道
       link: /invest/base

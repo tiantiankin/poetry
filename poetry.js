@@ -113,6 +113,10 @@ export const DATA = {
       {
         sentence: "天做棋盘星做子，地为琵琶路为弦。",
       },
+      {
+        sentence:'投我以木桃,报之以琼瑶。',
+        name:"木瓜"
+      }
     ],
     wangwei: [
       {
