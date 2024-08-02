@@ -19,6 +19,9 @@ export const DATA = {
       },
       {
         sentence: "人们创造他们自己的历史。",
+      },
+      {
+        sentence:'初闻不知曲中意,在听已是曲中人。'
       }
     ],
     zhuangzi:[
