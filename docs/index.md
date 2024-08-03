@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "杂记"
   text: "植木成林"
-  tagline: 随缘一更
+  tagline: 随缘一记
   # tagline: 
   actions:
     - theme: brand
@@ -17,3 +17,6 @@ hero:
     - theme: alt
       text: 积累之道
       link: /invest/base
+    - theme: alt
+      text: 少有人走的路
+      link: /i

@@ -40,6 +40,11 @@ export default defineConfig({
         {
           text:"投资与投机",link:'/invest/base'
         }
+      ],
+      "/less-route":[
+        {
+          text:"序",link:'/less-route/index'
+        }
       ]
     },
     socialLinks: [
