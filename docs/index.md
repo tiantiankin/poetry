@@ -19,4 +19,4 @@ hero:
       link: /invest/base
     - theme: alt
       text: 少有人走的路
-      link: /i
+      link: /less-route/index
