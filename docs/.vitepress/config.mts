@@ -11,10 +11,11 @@ export default defineConfig({
     ],
     sidebar: {
       "/en/": [{
-        text: '印度',
+        text: '',
         items: [
           { text: '泰戈尔-Tagore', link: '/en/tagore' },
           { text: '惠特曼-Whitman', link: '/en/whitman' },
+          { text: '塞涅卡-Seneca', link: '/en/seneca' },
         ]
       }],
       "/cn/": [{

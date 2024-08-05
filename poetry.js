@@ -26,6 +26,9 @@ export const DATA = {
       {
         sentence:"流光闪动穿丝线，沫破往事随风现。也曾同为场中人，卧坪中，观天变。",
         name:"记于广场观孩童"
+      },
+      {
+        sentence:"人一死，物我两忘，复归于无"
       }
     ],
     zhuangzi:[
@@ -202,6 +205,9 @@ export const DATA = {
         originName: `Baby's Way`,
       },
     ],
+    seneca:[{
+      sentence:'如果你想消除一切担心，那么请设想你所担心的一切都会发生'
+    }]
   },
 };
 

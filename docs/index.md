@@ -20,3 +20,7 @@ hero:
     - theme: alt
       text: 少有人走的路
       link: /less-route/index
+    - theme: alt
+      text: 哲学的慰籍
+      link: /consolation/index
+
