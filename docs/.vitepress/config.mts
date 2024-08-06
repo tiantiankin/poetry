@@ -44,7 +44,7 @@ export default defineConfig({
       ],
       "/less-route":[
         {
-          text:"序",link:'/less-route/index'
+          text:"总结",link:'/less-route/index'
         }
       ]
     },
