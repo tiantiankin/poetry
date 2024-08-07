@@ -13,7 +13,7 @@ hero:
       link: /cn/huineng
     - theme: alt
       text: 外国诗歌/句子
-      link: /en/tagore
+      link: /en/ruthBebermeyer
     - theme: alt
       text: 积累之道
       link: /invest/base

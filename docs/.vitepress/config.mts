@@ -13,6 +13,7 @@ export default defineConfig({
       "/en/": [{
         text: '',
         items: [
+          { text: '鲁思-贝本梅尔-ruth-bebermeyer', link: '/en/ruthBebermeyer' },
           { text: '泰戈尔-Tagore', link: '/en/tagore' },
           { text: '惠特曼-Whitman', link: '/en/whitman' },
           { text: '塞涅卡-Seneca', link: '/en/seneca' },
