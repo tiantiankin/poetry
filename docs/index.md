@@ -23,4 +23,7 @@ hero:
     - theme: alt
       text: 哲学的慰籍
       link: /consolation/index
+    - theme: alt
+      text: 非暴力沟通
+      link: /nvc/index
 
