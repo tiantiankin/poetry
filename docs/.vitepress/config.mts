@@ -47,6 +47,11 @@ export default defineConfig({
         {
           text:"总结",link:'/less-route/index'
         }
+      ],
+      "/nvc":[
+        {
+          text:"总结",link:'/nvc/index'
+        }
       ]
     },
     socialLinks: [
