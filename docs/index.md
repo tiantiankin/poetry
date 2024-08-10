@@ -26,4 +26,7 @@ hero:
     - theme: alt
       text: 非暴力沟通
       link: /nvc/index
+    - theme: alt
+      text: 悲剧的核心-自我理解
+      link: /tragedy/index
 

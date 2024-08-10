@@ -18,6 +18,7 @@ export default defineConfig({
           { text: '惠特曼-Whitman', link: '/en/whitman' },
           { text: '塞涅卡-Seneca', link: '/en/seneca' },
           { text: '雷蒙德-钱德勒', link: '/en/chandler' },
+          { text: '威廉-尼采', link: '/en/nietzsche' }
         ]
       }],
       "/cn/": [{
@@ -41,19 +42,23 @@ export default defineConfig({
       }],
       "/invest/": [
         {
-          text:"投资与投机",link:'/invest/base'
+          text: "投资与投机", link: '/invest/base'
         }
       ],
-      "/less-route":[
+      "/less-route": [
         {
-          text:"总结",link:'/less-route/index'
+          text: "总结", link: '/less-route/index'
         }
       ],
-      "/nvc":[
+      "/nvc": [
         {
-          text:"总结",link:'/nvc/index'
+          text: "总结", link: '/nvc/index'
         }
-      ]
+      ],
+      "/tragedy": [{
+        text: "悲剧的核心",
+        link: '/tragedy/index'
+      }]
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }

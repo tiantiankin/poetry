@@ -168,6 +168,10 @@ export const DATA = {
     }],
     tagore: [
       {
+        sentence:'你的负担将变成礼物,你的苦难将会照亮你的路。',
+        name:"爱者之赠与歧路 (ps:笑死了，微信朋友圈挂了快十年的背景图片的文字现在才发现是泰戈尔说的，我和泰戈尔还真是有异样的缘分）"
+      },
+      {
         sentence: `孩子有成堆的黄金与珠子，但他到这个世界上来，却像一个乞丐。`,
         name: "孩童之道",
         origin: `Baby had a heap of gold and pearls, yet he came like a beggar on to this earth.`,
@@ -227,6 +231,11 @@ export const DATA = {
       {
         sentence: "何必为部分生活而哭泣?君不见全部人生都催人泪下。",
       },
+    ],
+    nietzsche:[
+      {
+        sentence:'那些杀不死你的,终将使你变得更强大。'
+      }
     ]
   },
 };
