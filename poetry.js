@@ -162,6 +162,10 @@ export const DATA = {
       name:'懒惰与愚蠢',
       link:"https://www.ximalaya.com/sound/172675383"
     }],
+    chandler:[{
+      sentence:"说一声再见,就是死去一点点。",
+      name:"漫长的告别"
+    }],
     tagore: [
       {
         sentence: `孩子有成堆的黄金与珠子，但他到这个世界上来，却像一个乞丐。`,

@@ -17,6 +17,7 @@ export default defineConfig({
           { text: '泰戈尔-Tagore', link: '/en/tagore' },
           { text: '惠特曼-Whitman', link: '/en/whitman' },
           { text: '塞涅卡-Seneca', link: '/en/seneca' },
+          { text: '雷蒙德-钱德勒', link: '/en/chandler' },
         ]
       }],
       "/cn/": [{
