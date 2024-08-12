@@ -43,7 +43,7 @@ export const DATA = {
       {
         sentence: "石头固然坚固，但纸张却比它更加深远。",
         name: "技术的更替-壁画/纸",
-      },
+      }
     ],
     zhuangzi: [
       {
