@@ -27,6 +27,6 @@ hero:
       text: 非暴力沟通
       link: /nvc/index
     - theme: alt
-      text: 悲剧的核心-随记
+      text: 悲剧的核心-如何写作随记
       link: /tragedy/index
 
