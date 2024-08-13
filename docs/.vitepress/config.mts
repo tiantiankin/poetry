@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "QT",
   description: "诗歌",
+  appearance: "dark",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -58,6 +59,10 @@ export default defineConfig({
       "/tragedy": [{
         text: "悲剧的核心",
         link: '/tragedy/index'
+      }],
+      "/ninth":[{
+        text: "第九艺术收集",
+        link: '/ninth/index'
       }]
     },
     socialLinks: [

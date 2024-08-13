@@ -43,6 +43,12 @@ export const DATA = {
       {
         sentence: "石头固然坚固，但纸张却比它更加深远。",
         name: "技术的更替-壁画/纸",
+      },
+      {
+        sentence:"一件物品只有被使用才拥有生命。"
+      },
+      {
+        sentence:"一人之善，对他人也可为恶。"
       }
     ],
     zhuangzi: [

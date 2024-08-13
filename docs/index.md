@@ -11,22 +11,28 @@ hero:
     - theme: brand
       text: 中国诗歌/句子
       link: /cn/huineng
-    - theme: alt
+    - theme: brand
       text: 外国诗歌/句子
       link: /en/ruthBebermeyer
-    - theme: alt
+    - theme: brand
+      text: 第九艺术收集
+      link: /ninth/index
+    - theme:  brand
       text: 积累之道
       link: /invest/base
-    - theme: alt
+    - theme: brand
       text: 少有人走的路
       link: /less-route/index
-    - theme: alt
+    - theme:  brand
       text: 哲学的慰籍
       link: /consolation/index
-    - theme: alt
+    - theme:  brand
       text: 非暴力沟通
       link: /nvc/index
-    - theme: alt
+    - theme:  brand
+      text: 断舍离
+      link: /declutter/index
+    - theme:  brand
       text: 悲剧的核心-如何写作随记
       link: /tragedy/index
 
