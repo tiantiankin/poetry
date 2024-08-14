@@ -169,6 +169,11 @@ export const DATA = {
         link: "https://so.gushiwen.cn/shiwenv_bd4224133394.aspx",
       },
     ],
+    hanyu:[{
+      sentence:"闻道有先后,术业有专攻,如是而已.",
+      name:"师说",
+      link:"https://www.gushiwen.cn/shiwenv_178197fd7202.aspx"
+    }]
   },
   en: {
     ruthBebermeyer: [
