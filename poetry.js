@@ -49,6 +49,9 @@ export const DATA = {
       },
       {
         sentence:"一人之善，对他人也可为恶。"
+      },
+      {
+        sentence:"当我望向天空的时候，所有星星都在笑。"
       }
     ],
     zhuangzi: [
