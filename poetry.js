@@ -52,6 +52,10 @@ export const DATA = {
       },
       {
         sentence:"当我望向天空的时候，所有星星都在笑。"
+      },
+      {
+        sentence:"世界生我，我生 AI,AI 生世界",
+        name:"杨哥"
       }
     ],
     zhuangzi: [
