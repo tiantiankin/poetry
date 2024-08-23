@@ -56,6 +56,10 @@ export const DATA = {
       {
         sentence:"世界生我，我生 AI,AI 生世界。",
         name:"杨哥"
+      },
+      {
+        sentence:"你相信什么并不重要，重要的是你别完全相信它。",
+        name:"廖雪峰老师"
       }
     ],
     zhuangzi: [

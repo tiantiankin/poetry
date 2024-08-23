@@ -35,4 +35,7 @@ hero:
     - theme:  brand
       text: 悲剧的核心-如何写作随记
       link: /tragedy/index
+    - theme:  brand
+      text: 对概率的理解
+      link: /possible/index
 
