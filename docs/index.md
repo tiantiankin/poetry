@@ -14,9 +14,6 @@ hero:
     - theme: brand
       text: 外国诗歌/句子
       link: /en/ruthBebermeyer
-    # - theme: brand
-    #   text: 第九艺术收集
-    #   link: /ninth/index
     - theme:  brand
       text: 积累之道
       link: /invest/base
@@ -32,10 +29,8 @@ hero:
     - theme:  brand
       text: 断舍离
       link: /declutter/index
-    - theme:  brand
-      text: 悲剧的核心-如何写作随记
-      link: /tragedy/index
-    - theme:  brand
-      text: 对概率的理解
-      link: /possible/index
+    - theme: brand
+      text: 个人感悟/理解
+      link: /person/possible/index
+
 

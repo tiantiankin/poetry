@@ -57,11 +57,25 @@ export default defineConfig({
           text: "总结", link: '/nvc/index'
         }
       ],
+      "/person": [
+        {
+          text: "对概率的理解",
+          link: "/person/possible/index"
+        },
+        {
+          text: "艺术与第九艺术的理解",
+          link: "/person/ninth/index"
+        },
+        {
+          text: "悲剧的核心-如何写作随记",
+          link: "/person//tragedy/index"
+        }
+      ],
       "/tragedy": [{
         text: "悲剧的核心",
         link: '/tragedy/index'
       }],
-      "/ninth":[{
+      "/ninth": [{
         text: "第九艺术收集",
         link: '/ninth/index'
       }]
