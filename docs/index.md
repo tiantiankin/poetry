@@ -29,6 +29,9 @@ hero:
     - theme:  brand
       text: 断舍离
       link: /declutter/index
+    - theme:  brand
+      text: 人性的弱点
+      link: /weakness/index
     - theme: brand
       text: 个人感悟/理解
       link: /person/possible/index

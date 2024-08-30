@@ -63,12 +63,12 @@ export default defineConfig({
           link: "/person/possible/index"
         },
         {
-          text: "艺术与第九艺术的理解",
-          link: "/person/ninth/index"
+          text: "关于自由",
+          link: "/person/freedom/index"
         },
         {
           text: "悲剧的核心-如何写作随记",
-          link: "/person//tragedy/index"
+          link: "/person/tragedy/index"
         }
       ],
       "/tragedy": [{
