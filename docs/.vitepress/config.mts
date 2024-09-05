@@ -67,6 +67,10 @@ export default defineConfig({
           link: "/person/freedom/index"
         },
         {
+          text: "关于财富",
+          link: "/person/wealth/index"
+        },
+        {
           text: "悲剧的核心-如何写作随记",
           link: "/person/tragedy/index"
         }
