@@ -67,6 +67,10 @@ export const DATA = {
       {
         sentence:"我不记得读过的书，就像不记得吃过的饭一样；即便如此，它们还是造就了我。",
         name:"网友"
+      },
+      {
+        sentence:"为什么我的眼里常含泪水 因为我对这片土地爱得深沉。",
+        name:"艾青"
       }
     ],
     zhuangzi: [
