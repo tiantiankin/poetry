@@ -73,6 +73,10 @@ export default defineConfig({
         {
           text: "悲剧的核心-如何写作随记",
           link: "/person/tragedy/index"
+        },
+        {
+          text: "穷与富",
+          link: "/person/poor-and-rich/index"
         }
       ],
       "/tragedy": [{
