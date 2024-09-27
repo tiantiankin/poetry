@@ -73,6 +73,9 @@ export const DATA = {
       },
       {
         sentence:"钟表机芯运转之时，所有齿轮和指针也都随之旋转。"
+      },
+      {
+        sentence:"A ship in harbor is safe，but that's not the purpose of shipbuilding"
       }
       // {
       //   sentence:`
