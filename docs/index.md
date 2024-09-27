@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "杂记"
-  text: "植木成林"
+  text: "植木成林，成为想成为的人"
   tagline: 随缘一记
   # tagline: 
   actions:
@@ -32,6 +32,9 @@ hero:
     - theme:  brand
       text: 人性的弱点
       link: /weakness/index
+    - theme:  brand
+      text: 穷爸爸富爸爸
+      link: /esbi/index
     - theme: brand
       text: 个人感悟/理解
       link: /person/possible/index
