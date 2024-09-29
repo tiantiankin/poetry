@@ -77,6 +77,10 @@ export default defineConfig({
         {
           text: "穷与富",
           link: "/person/poor-and-rich/index"
+        },
+        {
+          text: "生活趣事",
+          link: "/person/funny/index"
         }
       ],
       "/tragedy": [{
