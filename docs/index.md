@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "杂记"
-  text: "植木成林，成为想成为的人"
+  text: "植木成林"
   tagline: 随缘一记
   # tagline: 
   actions:
