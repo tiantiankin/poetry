@@ -79,7 +79,7 @@ export default defineConfig({
           link: "/person/poor-and-rich/index"
         },
         {
-          text: "关于金钱",
+          text: "关于经济",
           link: "/person/money/index"
         },
         {
