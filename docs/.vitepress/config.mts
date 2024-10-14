@@ -63,6 +63,10 @@ export default defineConfig({
           link: "/person/possible/index"
         },
         {
+          text: "悲剧的核心-如何写作随记",
+          link: "/person/tragedy/index"
+        },
+        {
           text: "关于自由",
           link: "/person/freedom/index"
         },
@@ -71,12 +75,12 @@ export default defineConfig({
           link: "/person/wealth/index"
         },
         {
-          text: "悲剧的核心-如何写作随记",
-          link: "/person/tragedy/index"
-        },
-        {
           text: "穷与富",
           link: "/person/poor-and-rich/index"
+        },
+        {
+          text: "关于金钱",
+          link: "/person/money/index"
         },
         {
           text: "生活趣事",

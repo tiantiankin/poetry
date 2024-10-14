@@ -38,5 +38,8 @@ hero:
     - theme: brand
       text: 个人感悟/理解
       link: /person/possible/index
+    - theme: brand
+      text: 技能收录
+      link: /person/skill/index
 
 
