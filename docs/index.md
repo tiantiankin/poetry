@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: 外国诗歌/句子
       link: /en/ruthBebermeyer
+    - theme: brand
+      text: 故事积累
+      link: /story/carrot
     - theme:  brand
       text: 积累之道
       link: /invest/base

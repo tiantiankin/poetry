@@ -42,6 +42,11 @@ export default defineConfig({
           { text: '现代', link: '/cn/current' },
         ]
       }],
+      "/story/": [
+        {
+          text: "胡萝卜", link: '/story/carrot'
+        }
+      ],
       "/invest/": [
         {
           text: "投资与投机", link: '/invest/base'
