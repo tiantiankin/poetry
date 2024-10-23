@@ -16,7 +16,7 @@ hero:
       link: /en/ruthBebermeyer
     - theme: brand
       text: 故事积累
-      link: /story/carrot
+      link: /story/sign
     - theme:  brand
       text: 积累之道
       link: /invest/base

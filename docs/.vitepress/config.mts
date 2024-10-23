@@ -44,7 +44,7 @@ export default defineConfig({
       }],
       "/story/": [
         {
-          text: "胡萝卜", link: '/story/carrot'
+          text: "胡萝卜", link: '/story/sign'
         }
       ],
       "/invest/": [

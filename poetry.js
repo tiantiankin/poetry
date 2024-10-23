@@ -76,6 +76,9 @@ export const DATA = {
       },
       {
         sentence:"A ship in harbor is safe，but that's not the purpose of shipbuilding"
+      },
+      {
+        sentence:"Among the blind the one-eyed man is the king (在盲人的国度，独眼的便是王)"
       }
       // {
       //   sentence:`
