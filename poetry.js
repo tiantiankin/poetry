@@ -10,8 +10,8 @@ export const DATA = {
         name: "一切都是最好的安排",
       },
       {
-        sentence: "到底是什么样的终点才对得起这一路的颠沛流离 -余华",
-        name: "文城",
+        sentence: "到底是什么样的终点才对得起这一路的颠沛流离",
+        name: "文城 余华",
       },
       {
         sentence:
@@ -19,6 +19,7 @@ export const DATA = {
       },
       {
         sentence: "人们创造他们自己的历史。",
+        name:"me"
       },
       // {
       //   sentence:
@@ -47,10 +48,12 @@ export const DATA = {
         sentence:"人活着根本目的其实就是追求自由，一切行为也只是在追求规则准许下的自由。"
       },
       {
-        sentence:"一人之善，对他人也可为恶。"
+        sentence:"一人之善，对他人也可为恶。",
+        name:"童年-哑舍"
       },
       {
-        sentence:"当我望向天空的时候，所有星星都在笑。"
+        sentence:"当我望向天空的时候，所有星星都在笑。",
+        name:"小王子"
       },
       {
         sentence:"世界生我，我生 AI,AI 生世界。",
@@ -62,7 +65,7 @@ export const DATA = {
       },
       {
         sentence:"我不记得读过的书，就像不记得吃过的饭一样；即便如此，它们还是造就了我。",
-        name:"网友"
+        name:"遗忘名字的网友"
       },
       {
         sentence:"为什么我的眼里常含泪水 因为我对这片土地爱得深沉。",
@@ -70,18 +73,27 @@ export const DATA = {
       } ,
       {
         sentence:"我看到一只在象牙塔上爬行的蜗牛，它不断的向上爬行，但始终看不到塔的尽头。",
+        name:"me"
       },
       {
-        sentence:"钟表机芯运转之时，所有齿轮和指针也都随之旋转。"
+        sentence:"钟表机芯运转之时，所有齿轮和指针也都随之旋转。",
+        name:"me"
       },
       {
-        sentence:"A ship in harbor is safe，but that's not the purpose of shipbuilding"
+        sentence:"A ship in harbor is safe，but that's not the purpose of shipbuilding（港口里的船是安全的，但这不是造船的目的）",
+        name:"鹰哥"
       },
       {
-        sentence:"Among the blind the one-eyed man is the king (在盲人的国度，独眼的便是王)"
+        sentence:"Among the blind the one-eyed man is the king (在盲人的国度，独眼的便是王)",
+        name:"莫泊桑"
       },
       {
-        sentence:"曾经居住在无阳光的城中村，感觉自己就像一只下水道的老鼠，搬家见到阳光的一刻顿时哭了出来-网友。"
+        sentence:"曾经居住在无阳光的城中村，感觉自己就像一只下水道的老鼠，搬家见到阳光的一刻顿时哭了出来",
+        name:"网友-文墨"
+      },
+      {
+        sentence:"只有自身足够强大，才能让他人仰望。",
+        name:"网友-老薛"
       }
       // {
       //   sentence:`

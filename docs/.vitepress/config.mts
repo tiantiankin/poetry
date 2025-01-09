@@ -94,6 +94,10 @@ export default defineConfig({
         {
           text:'实事',
           link:"/person/social/index"
+        },
+        {
+          text:"愚者的图书馆",
+          link:"/person/skill/index"
         }
       ],
       "/tragedy": [{
