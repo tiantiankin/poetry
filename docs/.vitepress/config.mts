@@ -91,6 +91,10 @@ export default defineConfig({
           text: "生活趣事",
           link: "/person/funny/index"
         },
+        {
+          text:"年",
+          link:"/person/years/index"
+        }
         // {
         //   text:'实事',
         //   link:"/person/social/index"
